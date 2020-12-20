@@ -1,0 +1,9 @@
+0 No error #define NO_ERROR 0
+
+1 NULL Value #define NULL_VALUE 1
+
+2 Element size is negative or zero #define ELEM_SIZE_ZERO 2
+
+3 unable to allocate memory #define MEM_ALLOC_ERROR 3 
+
+4 Stack is empty #define STACK_EMPTY 4
